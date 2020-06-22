@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Live Score E-Sport Dashboard", "Live Score E-Sport Dashboard.vbproj", "{8C8319CD-103D-471C-9DB2-3231202DD1E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C8319CD-103D-471C-9DB2-3231202DD1E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C8319CD-103D-471C-9DB2-3231202DD1E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C8319CD-103D-471C-9DB2-3231202DD1E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C8319CD-103D-471C-9DB2-3231202DD1E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D44D67E-0BCD-4A62-B6EB-7C724B03DC34}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,231 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Live Score E-Sport Dashboard
+</name>
+</assembly>
+<members>
+<member name="T:Live_Score_E_Sport_Dashboard.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Live_Score_E_Sport_Dashboard.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Live_Score_E_Sport_Dashboard.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Live_Score_E_Sport_Dashboard.My.Resources.Resources._1200px_Aerowolf_Pro_Teamlogo_square">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Live_Score_E_Sport_Dashboard.My.Resources.Resources._2018_01_art_4_1_845">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Live_Score_E_Sport_Dashboard.My.Resources.Resources._20200118020140">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Live_Score_E_Sport_Dashboard.My.Resources.Resources._372_3720349_logo_evos_esport_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Live_Score_E_Sport_Dashboard.My.Resources.Resources._600px_Alter_Ego_Logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Live_Score_E_Sport_Dashboard.My.Resources.Resources._600px_Bigetron_Esports_Logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Live_Score_E_Sport_Dashboard.My.Resources.Resources._600px_Rex_Regum_Qeon_Logo_Simple">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Live_Score_E_Sport_Dashboard.My.Resources.Resources._980244">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Live_Score_E_Sport_Dashboard.My.Resources.Resources.a98b9b6c16cde296f5b44a253871e011404b5d62e8bf843a5b74581536">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Live_Score_E_Sport_Dashboard.My.Resources.Resources.alarm_480px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Live_Score_E_Sport_Dashboard.My.Resources.Resources.alarm_480px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Live_Score_E_Sport_Dashboard.My.Resources.Resources.alex_iby_XhMSz5I1kn8_unsplash">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Live_Score_E_Sport_Dashboard.My.Resources.Resources.c1_1558778_181016104512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Live_Score_E_Sport_Dashboard.My.Resources.Resources.calendar_480px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Live_Score_E_Sport_Dashboard.My.Resources.Resources.calendar_480px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Live_Score_E_Sport_Dashboard.My.Resources.Resources.cara_mengirim_battle_point_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Live_Score_E_Sport_Dashboard.My.Resources.Resources.cover_free_fire_600x600">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Live_Score_E_Sport_Dashboard.My.Resources.Resources.ESport_ESL">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Live_Score_E_Sport_Dashboard.My.Resources.Resources.esports_logo_png_9">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Live_Score_E_Sport_Dashboard.My.Resources.Resources.exit_208px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Live_Score_E_Sport_Dashboard.My.Resources.Resources.exit_208px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Live_Score_E_Sport_Dashboard.My.Resources.Resources.f062a3f214b208dd4eac506542f91422">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Live_Score_E_Sport_Dashboard.My.Resources.Resources.Group_7">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Live_Score_E_Sport_Dashboard.My.Resources.Resources.Group_8">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Live_Score_E_Sport_Dashboard.My.Resources.Resources.helping_hand_512px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Live_Score_E_Sport_Dashboard.My.Resources.Resources.icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Live_Score_E_Sport_Dashboard.My.Resources.Resources.kisspng_2018_mid_season_invitational_league_of_legends_sup_5b5910310ea828_4192424015325635050601">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Live_Score_E_Sport_Dashboard.My.Resources.Resources.menu_2_filled_500px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Live_Score_E_Sport_Dashboard.My.Resources.Resources.ONIC_Esports_Logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Live_Score_E_Sport_Dashboard.My.Resources.Resources.ONIC_Esports_Logo1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Live_Score_E_Sport_Dashboard.My.Resources.Resources.picture14642301608056">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Live_Score_E_Sport_Dashboard.My.Resources.Resources.play_button_circled_480px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Live_Score_E_Sport_Dashboard.My.Resources.Resources.play_button_circled_96px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Live_Score_E_Sport_Dashboard.My.Resources.Resources.pubg_200428114349_263">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Live_Score_E_Sport_Dashboard.My.Resources.Resources.Screenshot_109">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Live_Score_E_Sport_Dashboard.My.Resources.Resources.Screenshot_110_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Live_Score_E_Sport_Dashboard.My.Resources.Resources.settings_96px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Live_Score_E_Sport_Dashboard.My.Resources.Resources.settings_96px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Live_Score_E_Sport_Dashboard.My.Resources.Resources.skull_512px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Live_Score_E_Sport_Dashboard.My.Resources.Resources.sword_480px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Live_Score_E_Sport_Dashboard.My.Resources.Resources.time_machine_480px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
